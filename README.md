@@ -16,3 +16,13 @@ The pre-trained model can be downloaded from the following links in the format p
 - [tiny_yolo_IR_500000_FP16.bin](https://drive.google.com/file/d/1jmfwto9Id2KwkZp03sLkKH5oASvVDwQ8/view?usp=sharing)
 - [tiny_yolo_IR_500000_FP32.bin](https://drive.google.com/file/d/1Y2YlF11heoJ3BCgu9k4EUCSgm01g3PEA/view?usp=sharing) 
 - [tiny_yolo_IR_500000_FP32.xml](https://drive.google.com/file/d/1bsmh5WcJ4HYMy-yOnZbd4chiXU4Ypat6/view?usp=sharing)
+
+
+## Repositories used for this project: 
+https://github.com/thtrieu/darkflow
+https://github.com/tzutalin/labelImg
+https://github.com/srp-31/Data-Augmentation-for-Object-Detection-YOLO-
+https://github.com/Jumabek/darknet_scripts
+https://github.com/mystic123/tensorflow-yolo-v3
+https://github.com/PINTO0309/OpenVINO-YoloV3 <-- The most important. 
+https://github.com/thtrieu/darkflow
