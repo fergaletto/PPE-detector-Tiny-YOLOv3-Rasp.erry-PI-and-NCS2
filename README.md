@@ -19,10 +19,10 @@ The pre-trained model can be downloaded from the following links in the format p
 
 
 ## Repositories used for this project: 
-https://github.com/thtrieu/darkflow
-https://github.com/tzutalin/labelImg
-https://github.com/srp-31/Data-Augmentation-for-Object-Detection-YOLO-
-https://github.com/Jumabek/darknet_scripts
-https://github.com/mystic123/tensorflow-yolo-v3
-https://github.com/PINTO0309/OpenVINO-YoloV3 <-- The most important. 
-https://github.com/thtrieu/darkflow
+- https://github.com/thtrieu/darkflow
+- https://github.com/tzutalin/labelImg
+- https://github.com/srp-31/Data-Augmentation-for-Object-Detection-YOLO-
+- https://github.com/Jumabek/darknet_scripts
+- https://github.com/mystic123/tensorflow-yolo-v3
+- https://github.com/PINTO0309/OpenVINO-YoloV3 <-- The most important. 
+- https://github.com/thtrieu/darkflow
